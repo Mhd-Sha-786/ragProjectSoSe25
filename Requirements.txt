@@ -11,4 +11,10 @@ accelerate
 bitsandbytes
 jupyter
 wheel
+asgiref==3.8.1
+Django==5.2
+djangorestframwork==3.16.0
+sqlparse==0.5.3
+typing_extensions==4.13.2
+requests==2.32.2
 # flash-attn
